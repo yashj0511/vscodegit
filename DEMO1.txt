@@ -1,2 +1,2 @@
-Hello guys ,This file is added to check how pull requests works
+Hello guys ,This file is added to check how the pull requests works.
 edited 
